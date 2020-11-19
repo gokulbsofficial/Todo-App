@@ -1,0 +1,14 @@
+header {
+    background-color: #055565;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header a {
+    color: #0c7588;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
