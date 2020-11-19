@@ -31,7 +31,7 @@ state = {
         return (
             <div className="todo-container">
                 <form className="input-section" onSubmit={this.storeItems}>
-                <h1>Todo app</h1>
+                <h1>Todo App</h1>
                     <input type="text" value={input} onChange={this.handleChange} placeholder="Enter Items..."/>
 
                 </form>
